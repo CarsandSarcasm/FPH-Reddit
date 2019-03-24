@@ -1,0 +1,333 @@
+/*Spritesheet*/
+
+.arrow-upvote,
+.arrow-upvoted,
+.arrow-downvote,
+.arrow-downvoted {
+    background: url(https://i.imgur.com/jAs7MFs.png);
+    width: 16px;
+    height: 16px;
+}
+    .arrow-upvote    { background-position:   0   -12px; }
+    .arrow-upvoted   { background-position: -16px -12px; }
+    .arrow-downvote  { background-position:   0   -28px; }
+    .arrow-downvoted { background-position: -16px -28px; }
+
+.comment .arrow-upvote,
+.comment .arrow-upvoted,
+.comment .arrow-downvote,
+.comment .arrow-downvoted {
+    background: url(https://i.imgur.com/jAs7MFs.png);
+    width: 12px;
+    height: 12px;
+}
+    .comment .arrow-upvote    { background-position: -32px -12px; }
+    .comment .arrow-upvoted   { background-position: -44px -12px; }
+    .comment .arrow-downvote  { background-position: -32px -24px; }
+    .comment .arrow-downvoted { background-position: -44px -24px; }
+
+body {
+    font-family: verdana, arial, helvetica, sans-serif;
+    background-color: white;
+    z-index: 1;
+    min-height: 100%;
+}
+.form-control {
+    border: 1px solid gray;
+    font-size: 13px;
+    font-family: verdana;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    padding: 6px;
+    padding-right: 25px;
+    padding-left: 9px;
+    vertical-align: middle;
+}
+.form-horizontal {
+    background-color: #f6e69f;
+    border: 1px solid #ffa500;
+    font-size: small;
+    padding: 5px 10px;
+}
+
+.btn-whoaverse.contribute {
+    background: white;
+    background-image: url(https://i.imgur.com/SwaHz4K.png);
+    color: #369;
+    border: 1px solid #c4dbf1;
+}
+.btn-whoaverse.contribute:hover {
+    background: white;
+    background-image: url(https://i.imgur.com/wuTYUNb.png);
+    color: #369;
+    border: 1px solid #75B4F0;
+}
+.btn-whoaverse-paging {
+    background: url(https://i.imgur.com/maXtPzS.png);
+    border: 1px solid #444;
+    color: white;
+}
+.btn-whoaverse-paging:hover {
+    background: url(https://i.imgur.com/maXtPzS.png);
+    border: 1px solid #444;
+    color: white;
+}
+.btn-unsub {
+    background: url(https://i.imgur.com/mcExZP5.png);
+}
+.btn-unsub:hover {
+    background: url(https://i.imgur.com/mcExZP5.png);
+}
+#container,
+#header-banner {
+    max-width: 100%;
+}
+/*Misc Styling*/
+
+.score.likes {
+    color: #FF8B60 !important
+}
+.score.dislikes {
+    color: #9494FF !important
+}
+.scorebar-likes {
+    background: #FF8B60
+}
+.scorebar-dislikes {
+    background: #9494FF
+}
+.rss-icon {
+    display: none
+}
+a:visited {
+    color: #551a8b
+}
+/*Banner Image*/
+
+#header {
+    background-image: url(https://i.imgtc.com/LxLaxTq.png);
+    height: 201px !important;
+    width: 1900px !important;
+}
+
+/*Subscriptions Bar*/
+
+.sr-list {
+    background-color: #f0f0f0;
+    white-space: nowrap;
+    border-bottom: 1px solid gray;
+    font-size: 80%;
+    height: 18px;
+    line-height: 18px;
+}
+.sr-list li a {
+    color: black;
+    text-transform: uppercase;
+}
+#sr-more-link {
+    background-color: #f0f0f0;
+    white-space: nowrap;
+    text-transform: uppercase;
+    border-bottom: 1px solid gray;
+    font-size: 90%;
+    height: 18px;
+    line-height: 18px;
+}
+.drop-arrow {
+    display: none;
+}
+/*Header*/
+
+#header-banner {
+    margin-top: -6px;
+    border-bottom: 1px solid #5f99cf;
+    background-color: #cee3f8;
+}
+.tabmenu {
+    position: relative;
+    top: 16.5px;
+}
+.tabmenu li a {
+    color: #369!important;
+    font-weight: bold;
+    border: 1px solid #5f99cf!important;
+    border-bottom: 0px;
+    background: white!important;
+    color: #369;
+    font-weight: bold;
+    border: 0px!important;
+    border-bottom: 0px;
+    border-radius: 0px!important;
+}
+.tabmenu li.selected a {
+    color: orangered!important;
+    border: 1px solid #5f99cf!important;
+    border-bottom: 1px solid white!important;
+}
+.tabmenu li {
+    background: white;
+}
+.pagename a {
+    position: relative;
+    top: 19px;
+    color: black;
+}
+.pagename a:hover {
+    color: black;
+    text-decoration: underline
+}
+.logged-in,
+.logged-out {
+    position: relative;
+    top: 14px;
+    background: rgb(239, 247, 255);
+    border: 0px
+}
+/*Sidebar*/
+
+.submissioninfo {
+    border: 1px solid #5f99cf;
+    background-color: #EFF7FF;
+    font-family: arial, helvetica, sans-serif;
+    color: black;
+    padding-left: 6px
+}
+.alert-h2 {
+    color: black
+}
+/*Comments*/
+
+.author.submitter {
+    background: blue;
+    color: white !important
+}
+a.submitter {
+    color: blue
+}
+.tagline .post_upvotes {
+    color: #FF8B60
+}
+.titlebox h1 a:hover {
+    color: black;
+    text-decoration: underline
+}
+.titlebox .bottom {
+    border-top: 1px solid black
+}
+.alert-h1 {
+    color: gray
+}
+.sidecontentbox .content {
+    border: 1px solid gray
+}
+/*Sign-in*/
+
+#loginForm .form-horizontal {
+    background: white;
+    border: 0px
+}
+.modal-title {
+    color: #4270a2
+}
+.modal-header {
+    background: white;
+    border: 0px
+}
+#loginForm .form-control {
+    width: 340px;
+    border-top: 1px grey
+}
+.modal-body .btn-whoaverse {
+    background: #4f86b5;
+    border-bottom: 2px solid #4270a2;
+    color: #ffffff;
+}
+
+/* EDIT MODERATOR BOX */
+
+.side .helplink + .title h1 { display: none; }
+.side .helplink + .title::before { 
+    content: 'THOUGHT POLICE';
+    display: block;
+    font-size: 120%;
+    font-weight: bold;
+    color:      #967aff;
+    text-transform: uppercase;
+}
+
+/*Downvote message*/
+        .arrow-downvote:after{
+           display:block;
+           visibility:hidden;
+           position:absolute;
+           z-index:1000;
+           margin-top:-6px;
+           margin-left:32px;
+           padding:12px;
+           background-color:rgba(79,77,192,0.0);
+           border:none;
+           border-radius:2px;
+           color:rgba(255,255,255,0);
+           content:"This hurts my fee-fees.";
+           text-align:center;
+           letter-spacing:1px;
+           font-weight:400;
+           font-size:13px;
+           transition:all .25s ease;
+           pointer-events:none
+        }
+
+        .arrow-downvote:hover:after{
+           visibility:visible;
+           background-color:rgba(24,24,24,0.9);
+           color:#FFF;
+           margin-left:48px
+        }
+
+/*Upvote message*/
+        .arrow-upvote:after{
+           display:block;
+           visibility:hidden;
+           position:absolute;
+           z-index:1000;
+           margin-top:-6px;
+           margin-left:32px;
+           padding:12px;
+           background-color:rgba(79,77,192,0.0);
+           border:none;
+           border-radius:2px;
+           color:rgba(255,255,255,0);
+           content:"Toppest KEK, Gentlesir or Madam";
+           text-align:center;
+           letter-spacing:1px;
+           font-weight:400;
+           font-size:13px;
+           transition:all .25s ease;
+           pointer-events:none
+        }
+
+        .arrow-upvote:hover:after{
+           visibility:visible;
+           background-color:rgba(24,24,24,0.9);
+           color:#FFF;
+           margin-left:48px
+        }
+
+/*Mod Flairs*/
+
+a[href$="/u/Carsandsarcasm"]:after { content: "Drives an electric car";color: white !important;padding: 3px !important;border: 0px !important;border-radius: 5px !important;text-shadow: 1px 1px 1px #000, -1px -1px 1px #000;background: linear-gradient(left,#009300,#87e108,#db00db,#2424ff,#db00db,#87e108,#009300) !important;background: -webkit-linear-gradient(left,#009300,#87e108,#db00db,#2424ff,#db00db,#87e108,#009300) !important;background: -moz-linear-gradient(left,#009300,#87e108,#db00db,#2424ff,#db00db,#87e108,#009300) !important;animation: rainbowbar 1s linear infinite;-webkit-animation: rainbowbar 1s linear infinite; }
+
+a[href$="/u/HomerSimpson"]:after { content: "Doesn't even like The Simpsons";color: black !important;border: 0px !important;padding: 3px !important;border-radius: 5px !important;background: linear-gradient(left,#DBA901,#FFBF00,#FACC2E,#F7D358,#FFFF00,#F7FE2E)!important;background: -webkit-linear-gradient(left,#DBA901,#FFBF00,#FACC2E,#F7D358,#FFFF00,#F7FE2E)!important;background: -moz-linear-gradient(left,#DBA901,#FFBF00,#FACC2E,#F7D358,#FFFF00,#F7FE2E)!important;animation: rainbowbar 1s linear infinite;-webkit-animation: rainbowbar 1s linear infinite; }
+
+a[href$="/u/NoMeGustanLosNiggers"]:after,
+a[href$="/u/RogerByam"]:after,
+a[href$="/u/raw"]:after,
+a[href$="/u/hamplanetarium1"]:after,
+a[href$="/u/Beautyinblue"]:after,
+a[href$="/u/Man_from_B_E_E_T_U_S"]:after,
+a[href$="/u/AzarelDJ"]:after,
+a[href$="/u/CthulhuDelay"]:after
+{ content: "Needs help using scissors";background: #f8f8f8;border: 1px solid #e6e6e6;border-radius: 2px;color: #000000;line-height: 150%;margin-left: 0.5em;margin-right: 3px;padding: 2px 4px;vertical-align: middle; }
+
+a[title="Profile"]:after,a.upvoatsGiven:after{content:none;}
