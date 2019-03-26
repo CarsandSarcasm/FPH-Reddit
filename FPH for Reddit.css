@@ -397,7 +397,9 @@ a[href$="/u/paybythepound"]:after,
 a[href$="/u/PsiloTheWolf"]:after,
 a[href$="/u/Davicide"]:after,
 a[href$="/u/redpilledblackguy"]:after,
-a[href$="/u/Palindromedan"]:after,
+a[href$="/u/Palindromedan"]:after
+{ content: "Has names for each fedora";color: white !important;padding: 3px !important;border: 0px !important;border-radius: 5px !important;text-shadow: 1px 1px 1px #000, -1px -1px 1px #000;background: linear-gradient(left,#ff0033,#ff00dd,#4000ff,#00eaff,#00ff22,#ffff00,#ff9100) !important;background: -webkit-linear-gradient(left,#ff0033,#ff00dd,#4000ff,#00eaff,#00ff22,#ffff00,#ff9100) !important;background: -moz-linear-gradient(left,#ff0033,#ff00dd,#4000ff,#00eaff,#00ff22,#ffff00,#ff9100) !important;animation: rainbowbar 1s linear infinite;-webkit-animation: rainbowbar 1s linear infinite; }
+
 a[href$="/u/Felez"]:after,
 a[href$="/u/NotMrS"]:after,
 a[href$="/u/PM_ME_UR_SOURCE_CODE"]:after,
@@ -514,7 +516,9 @@ a[href$="/u/diggeler"]:after,
 a[href$="/u/yourhero7"]:after,
 a[href$="/u/CttCJim"]:after,
 a[href$="/u/cassis"]:after,
-a[href$="/u/Shimmy"]:after,
+a[href$="/u/Shimmy"]:after
+{ content: "Has a doctorate in astrology";color: white !important;padding: 3px !important;border: 0px !important;border-radius: 5px !important;text-shadow: 1px 1px 1px #000, -1px -1px 1px #000;background: linear-gradient(left,#ff0033,#ff00dd,#4000ff,#00eaff,#00ff22,#ffff00,#ff9100) !important;background: -webkit-linear-gradient(left,#ff0033,#ff00dd,#4000ff,#00eaff,#00ff22,#ffff00,#ff9100) !important;background: -moz-linear-gradient(left,#ff0033,#ff00dd,#4000ff,#00eaff,#00ff22,#ffff00,#ff9100) !important;animation: rainbowbar 1s linear infinite;-webkit-animation: rainbowbar 1s linear infinite; }
+
 a[href$="/u/joelmooner"]:after,
 a[href$="/u/talones"]:after,
 a[href$="/u/LazarusLong"]:after,
@@ -631,7 +635,9 @@ a[href$="/u/Thinnerprivilege"]:after,
 a[href$="/u/ShitlordCaleb"]:after,
 a[href$="/u/MrSaxoBeetus"]:after,
 a[href$="/u/fryabeetus"]:after,
-a[href$="/u/TunaAndCucumbers"]:after,
+a[href$="/u/TunaAndCucumbers"]:after
+{ content: "Own too many cats";color: white !important;padding: 3px !important;border: 0px !important;border-radius: 5px !important;text-shadow: 1px 1px 1px #000, -1px -1px 1px #000;background: linear-gradient(left,#ff0033,#ff00dd,#4000ff,#00eaff,#00ff22,#ffff00,#ff9100) !important;background: -webkit-linear-gradient(left,#ff0033,#ff00dd,#4000ff,#00eaff,#00ff22,#ffff00,#ff9100) !important;background: -moz-linear-gradient(left,#ff0033,#ff00dd,#4000ff,#00eaff,#00ff22,#ffff00,#ff9100) !important;animation: rainbowbar 1s linear infinite;-webkit-animation: rainbowbar 1s linear infinite; }
+
 a[href$="/u/uvulectomy"]:after,
 a[href$="/u/windingtables"]:after,
 a[href$="/u/pm_me_your_excuses"]:after,
@@ -748,7 +754,9 @@ a[href$="/u/A_Vile_Climate"]:after,
 a[href$="/u/LiterallyLittering"]:after,
 a[href$="/u/pezz"]:after,
 a[href$="/u/TRIGGURED"]:after,
-a[href$="/u/shadowassassinqueef"]:after,
+a[href$="/u/shadowassassinqueef"]:after
+{ content: "Runs an MLM scheme";color: white !important;padding: 3px !important;border: 0px !important;border-radius: 5px !important;text-shadow: 1px 1px 1px #000, -1px -1px 1px #000;background: linear-gradient(left,#ff0033,#ff00dd,#4000ff,#00eaff,#00ff22,#ffff00,#ff9100) !important;background: -webkit-linear-gradient(left,#ff0033,#ff00dd,#4000ff,#00eaff,#00ff22,#ffff00,#ff9100) !important;background: -moz-linear-gradient(left,#ff0033,#ff00dd,#4000ff,#00eaff,#00ff22,#ffff00,#ff9100) !important;animation: rainbowbar 1s linear infinite;-webkit-animation: rainbowbar 1s linear infinite; }
+
 a[href$="/u/Z3r0-C00l"]:after,
 a[href$="/u/Shemadethis"]:after,
 a[href$="/u/Unsung_Heroes"]:after,
@@ -806,7 +814,7 @@ a[href$="/u/ImTim"]:after,
 a[href$="/u/the_spectre"]:after,
 a[href$="/u/Fuckcensorship"]:after,
 a[href$="/u/Phillyshitlord"]:after
-{ content: "Only huffs blue paint";color: white !important;padding: 3px !important;border: 0px !important;border-radius: 5px !important;text-shadow: 1px 1px 1px #000, -1px -1px 1px #000;background: linear-gradient(left,#ff0033,#ff00dd,#4000ff,#00eaff,#00ff22,#ffff00,#ff9100) !important;background: -webkit-linear-gradient(left,#ff0033,#ff00dd,#4000ff,#00eaff,#00ff22,#ffff00,#ff9100) !important;background: -moz-linear-gradient(left,#ff0033,#ff00dd,#4000ff,#00eaff,#00ff22,#ffff00,#ff9100) !important;animation: rainbowbar 1s linear infinite;-webkit-animation: rainbowbar 1s linear infinite; }
+{ content: "huffs paint, but only blue";color: white !important;padding: 3px !important;border: 0px !important;border-radius: 5px !important;text-shadow: 1px 1px 1px #000, -1px -1px 1px #000;background: linear-gradient(left,#ff0033,#ff00dd,#4000ff,#00eaff,#00ff22,#ffff00,#ff9100) !important;background: -webkit-linear-gradient(left,#ff0033,#ff00dd,#4000ff,#00eaff,#00ff22,#ffff00,#ff9100) !important;background: -moz-linear-gradient(left,#ff0033,#ff00dd,#4000ff,#00eaff,#00ff22,#ffff00,#ff9100) !important;animation: rainbowbar 1s linear infinite;-webkit-animation: rainbowbar 1s linear infinite; }
 
 a[href$="/u/theepilepticferret"]:after,
 a[href$="/u/sparklefuck"]:after,
@@ -865,7 +873,9 @@ a[href$="/u/Goater"]:after,
 a[href$="/u/Stopthefatness"]:after,
 a[href$="/u/vault_boy"]:after,
 a[href$="/u/C11H15No2"]:after,
-a[href$="/u/thatonefag"]:after,
+a[href$="/u/thatonefag"]:after
+{ content: "Is extremely fat";color: white !important;padding: 3px !important;border: 0px !important;border-radius: 5px !important;text-shadow: 1px 1px 1px #000, -1px -1px 1px #000;background: linear-gradient(left,#ff0033,#ff00dd,#4000ff,#00eaff,#00ff22,#ffff00,#ff9100) !important;background: -webkit-linear-gradient(left,#ff0033,#ff00dd,#4000ff,#00eaff,#00ff22,#ffff00,#ff9100) !important;background: -moz-linear-gradient(left,#ff0033,#ff00dd,#4000ff,#00eaff,#00ff22,#ffff00,#ff9100) !important;animation: rainbowbar 1s linear infinite;-webkit-animation: rainbowbar 1s linear infinite; }
+
 a[href$="/u/HamSalad"]:after,
 a[href$="/u/GainsGoblinGoebbels"]:after,
 a[href$="/u/PocketSized"]:after,
@@ -982,7 +992,9 @@ a[href$="/u/OinkOink"]:after,
 a[href$="/u/tweedles"]:after,
 a[href$="/u/ThotsAndPrayers"]:after,
 a[href$="/u/isol8"]:after,
-a[href$="/u/StickGirl"]:after,
+a[href$="/u/StickGirl"]:after
+{ content: "Self-diagnosed mentally ill";color: white !important;padding: 3px !important;border: 0px !important;border-radius: 5px !important;text-shadow: 1px 1px 1px #000, -1px -1px 1px #000;background: linear-gradient(left,#ff0033,#ff00dd,#4000ff,#00eaff,#00ff22,#ffff00,#ff9100) !important;background: -webkit-linear-gradient(left,#ff0033,#ff00dd,#4000ff,#00eaff,#00ff22,#ffff00,#ff9100) !important;background: -moz-linear-gradient(left,#ff0033,#ff00dd,#4000ff,#00eaff,#00ff22,#ffff00,#ff9100) !important;animation: rainbowbar 1s linear infinite;-webkit-animation: rainbowbar 1s linear infinite; }
+
 a[href$="/u/bluejade"]:after,
 a[href$="/u/HomosexualPotatoes"]:after,
 a[href$="/u/intermittentfeasting"]:after,
@@ -1099,7 +1111,9 @@ a[href$="/u/putdownthedonut"]:after,
 a[href$="/u/honormyacanthosis"]:after,
 a[href$="/u/newbuggy"]:after,
 a[href$="/u/PepeThePained"]:after,
-a[href$="/u/8-BIT_Ruby"]:after,
+a[href$="/u/8-BIT_Ruby"]:after
+{ content: "Braids their underarm hair";color: white !important;padding: 3px !important;border: 0px !important;border-radius: 5px !important;text-shadow: 1px 1px 1px #000, -1px -1px 1px #000;background: linear-gradient(left,#ff0033,#ff00dd,#4000ff,#00eaff,#00ff22,#ffff00,#ff9100) !important;background: -webkit-linear-gradient(left,#ff0033,#ff00dd,#4000ff,#00eaff,#00ff22,#ffff00,#ff9100) !important;background: -moz-linear-gradient(left,#ff0033,#ff00dd,#4000ff,#00eaff,#00ff22,#ffff00,#ff9100) !important;animation: rainbowbar 1s linear infinite;-webkit-animation: rainbowbar 1s linear infinite; }
+
 a[href$="/u/Rimfakse"]:after,
 a[href$="/u/Smartt88"]:after,
 a[href$="/u/iheartmypuppy"]:after,
@@ -1216,7 +1230,9 @@ a[href$="/u/skinniemouse"]:after,
 a[href$="/u/Corruption22"]:after,
 a[href$="/u/starwalker"]:after,
 a[href$="/u/mountainclimber"]:after,
-a[href$="/u/thinsignificant"]:after,
+a[href$="/u/thinsignificant"]:after
+{ content: "Has multiple pronouns";color: white !important;padding: 3px !important;border: 0px !important;border-radius: 5px !important;text-shadow: 1px 1px 1px #000, -1px -1px 1px #000;background: linear-gradient(left,#ff0033,#ff00dd,#4000ff,#00eaff,#00ff22,#ffff00,#ff9100) !important;background: -webkit-linear-gradient(left,#ff0033,#ff00dd,#4000ff,#00eaff,#00ff22,#ffff00,#ff9100) !important;background: -moz-linear-gradient(left,#ff0033,#ff00dd,#4000ff,#00eaff,#00ff22,#ffff00,#ff9100) !important;animation: rainbowbar 1s linear infinite;-webkit-animation: rainbowbar 1s linear infinite; }
+
 a[href$="/u/Agrajag_"]:after,
 a[href$="/u/SOS_roommateapotamus"]:after,
 a[href$="/u/SoylentGreenday"]:after,
@@ -1333,7 +1349,9 @@ a[href$="/u/laughing_90"]:after,
 a[href$="/u/sharkzard"]:after,
 a[href$="/u/GoldenPhoenix"]:after,
 a[href$="/u/shitlady123"]:after,
-a[href$="/u/shittycyclist"]:after,
+a[href$="/u/shittycyclist"]:after
+{ content: "Wears neon hair and Problem Glasses";color: white !important;padding: 3px !important;border: 0px !important;border-radius: 5px !important;text-shadow: 1px 1px 1px #000, -1px -1px 1px #000;background: linear-gradient(left,#ff0033,#ff00dd,#4000ff,#00eaff,#00ff22,#ffff00,#ff9100) !important;background: -webkit-linear-gradient(left,#ff0033,#ff00dd,#4000ff,#00eaff,#00ff22,#ffff00,#ff9100) !important;background: -moz-linear-gradient(left,#ff0033,#ff00dd,#4000ff,#00eaff,#00ff22,#ffff00,#ff9100) !important;animation: rainbowbar 1s linear infinite;-webkit-animation: rainbowbar 1s linear infinite; }
+
 a[href$="/u/HammyFlammy"]:after,
 a[href$="/u/thighgapandcurves"]:after,
 a[href$="/u/SevenDaysTooLong"]:after,
@@ -1357,22 +1375,6 @@ a[href$="/u/CakeDealer"]:after,
 a[href$="/u/hellno"]:after,
 a[href$="/u/Countess_shitula"]:after
 a[href$="/u/deadthings"]:after
-{ content: "Has names for each fedora";color: white !important;padding: 3px !important;border: 0px !important;border-radius: 5px !important;text-shadow: 1px 1px 1px #000, -1px -1px 1px #000;background: linear-gradient(left,#ff0033,#ff00dd,#4000ff,#00eaff,#00ff22,#ffff00,#ff9100) !important;background: -webkit-linear-gradient(left,#ff0033,#ff00dd,#4000ff,#00eaff,#00ff22,#ffff00,#ff9100) !important;background: -moz-linear-gradient(left,#ff0033,#ff00dd,#4000ff,#00eaff,#00ff22,#ffff00,#ff9100) !important;animation: rainbowbar 1s linear infinite;-webkit-animation: rainbowbar 1s linear infinite; }
-
-Needs help using scissors
-Has an Anime girlfriend
-Confuses left and right
-Only huffs blue paint
-Subscribed to the Daily Mail
-Is actually a dude IRL
-Unironically a flat Earther
-Tried to buy a lefthanded screwdriver
-Has names for each fedora
-
-Braids their underarm hair
-Had to repeat Kindergarten
-Has a doctorate in astrology
-Owns too many cats
-
+{ content: "Had to repeat Kindergarten";color: white !important;padding: 3px !important;border: 0px !important;border-radius: 5px !important;text-shadow: 1px 1px 1px #000, -1px -1px 1px #000;background: linear-gradient(left,#ff0033,#ff00dd,#4000ff,#00eaff,#00ff22,#ffff00,#ff9100) !important;background: -webkit-linear-gradient(left,#ff0033,#ff00dd,#4000ff,#00eaff,#00ff22,#ffff00,#ff9100) !important;background: -moz-linear-gradient(left,#ff0033,#ff00dd,#4000ff,#00eaff,#00ff22,#ffff00,#ff9100) !important;animation: rainbowbar 1s linear infinite;-webkit-animation: rainbowbar 1s linear infinite; }
 
 a[title="Profile"]:after,a.upvoatsGiven:after{content:none;}
